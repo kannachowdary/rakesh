@@ -3,7 +3,7 @@
 
 his is one of the tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program )
 
-Task1
+# Task1
 Prediction using Supervised ML
 
 ● Predict the percentage of an student based on the no. of study hours.
@@ -13,13 +13,14 @@ Prediction using Supervised ML
 ● This is a simple linear regression task as it involves just 2 variables.
 
 
-Task2
+# Task2
 Prediction using Unsupervised ML
 
 ● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 
-Task 3
+
+# Task 3
 Exploratory Data Analysis
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
@@ -29,7 +30,7 @@ Exploratory Data Analysis
 ● What all business problems you can derive by exploring the data?
 
 
-Task 4
+# Task 4
 Exploratory Data Analysis-Terrorism
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
@@ -40,7 +41,7 @@ Exploratory Data Analysis-Terrorism
 
 
 
-Task 5
+# Task 5
 Exploratory Data Analysis - Sports
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
@@ -51,7 +52,7 @@ Exploratory Data Analysis - Sports
 
 
 
-Task 6
+# Task 6
 Prediction using Decision Tree Algorithm
 
 ● Create the Decision Tree classifier and visualize it graphically.
